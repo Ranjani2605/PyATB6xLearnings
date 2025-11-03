@@ -1,0 +1,1 @@
+# Given a Number a number you need to calculate the factorial of that number
